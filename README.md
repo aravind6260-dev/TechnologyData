@@ -1,3 +1,3 @@
 # TechnologyData
-Aravind
-Aravind
+Durga
+Durga
